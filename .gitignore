@@ -1,4 +1,4 @@
 *.pyc
 *.caffemodel
-*.txt
+data/intensity/Classification_XYZ.txt
 *.npy
