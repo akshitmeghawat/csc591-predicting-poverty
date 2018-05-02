@@ -42,7 +42,7 @@ def path(n):
         imageDir_face = "class1"
     elif n==2:
         imageDir_face = "class2"
-    else n==3:
+    elif n==3:
         imageDir_face = "class3"
 
     image_path_list_face = []
