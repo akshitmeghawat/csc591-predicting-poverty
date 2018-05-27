@@ -3,3 +3,6 @@
 data/intensity/Classification_XYZ.txt
 *.npy
 *.DS_Store
+*.Rhistory
+*.RData
+*.idea
